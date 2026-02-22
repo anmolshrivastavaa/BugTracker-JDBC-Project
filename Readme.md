@@ -4,7 +4,7 @@ A simple console-based Bug Tracking System built using Java, JDBC, and MySQL.
 This project demonstrates backend database testing, SQL operations, and Java–database connectivity, designed especially for QA / Software Testing learning and practice.
 
 🚀 Project Overview   
-   
+     
 This application allows testers to manage bugs by performing complete CRUD operations on a MySQL database using Java JDBC.
 
 The system supports:
